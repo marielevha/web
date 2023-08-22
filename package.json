@@ -1,0 +1,24 @@
+{
+  "name": "cobra",
+  "version": "1.0.0",
+  "description": "Je suis un ingénieur logiciel spécialisé dans l'étude & la création d'expériences numériques exceptionnelles pour booster votre activité.",
+  "author": "Mariel Evha ABIR",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@growthbunker/vueflags": "^0.1.14",
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/i18n": "^7.2.0",
+    "emailjs-com": "^3.2.0",
+    "nuxt": "^2.0.0",
+    "sweetalert": "^2.1.2",
+    "vue-loading-overlay": "^3.4.2",
+    "vuelidate": "^0.7.6"
+  },
+  "devDependencies": {}
+}

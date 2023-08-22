@@ -1,0 +1,42 @@
+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
+
+CN=adminged,OU=FileNet,DC=DEIL,DC=COM
+
+
+L’analyse fonctionnelle
+✓ La réalisation et développement d’un module SHARE
+d’une solution ECM/GEIDE avec Alfresco Community 6
+· Intégration du module Record Management (Rm
+repo et share)
+· Personnalisation d’interfaces utilisateurs.
+
+
+Etude Fonctionnelle (Alfresco community 6)
+• Etude Technique
+• Intégration et configuration du module Record Management
+• Intégration et configuration du module Activiti
+• Customisation de l'interface utilisateur
+
+
+La réalisation et développement d’un module SHARE d’une solution ECM/GEIDE avec Alfresco Community 6
+La réalisation et développement d’un module SHARE d’une solution ECM/GEIDE avec Alfresco Community 6, intégration et configuration du module Record Management, Activity et l'intégration de la charte graphique.
+
+La réalisation et développement d’un module SHARE d’une solution ECM/GEIDE avec Alfresco Community 6, intégration et configuration du module Record Management, Activity et l'intégration de la charte graphique.
+
+
+* Je comprends ce que votre entreprise signifie pour vous, vos exigences compte tenu des tendances pour booster votre activité.
+
+* Je suis développeur Fullstack. J'ai une passion pour la création de solution offrant une meilleure expérience utilisateur, une interface utilisateur propre, belle, interactive, minimaliste, réactive et conviviale, développée par un code modulaire, évolutif et fonctionnel.
+
+J'ai une passion pour la création  d'une interface utilisateur propre, belle, interactive, minimaliste, réactive et conviviale, développée par un code modulaire, évolutif et fonctionnel.
+
+* Conception d'une application web de point de vente, Rédaction du cahier des charges, Déploiement de la solution en intranet, Rédaction du guide d'utilisateur et formation des utilisateurs.
+
+* De la maintenance corrective à évolutive en passant par la maintenance adaptative
+Une solution complète pour la maintenance corrective, évolutive et adaptative pour vos application. d'entreprise
+
+
+* Conception d'applications web sur mesure, de sites e-commerces, de sites vitrines pour booster votre entreprise
+
+* Des applications Android/IOS poir
+Digitalé votre entreprise avec une application Android/IOS
