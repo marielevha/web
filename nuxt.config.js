@@ -1,3 +1,9 @@
+const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES' ? {
+  router: {
+    base: '/web/'
+  }
+} : {};
+
 export default {
   mode: "universal",
   /*
@@ -688,6 +694,8 @@ export default {
     ],
     '@nuxtjs/axios',
   ],
+
+  ...routerBase,
   /*
    ** Build configuration
    */
